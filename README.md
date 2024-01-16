@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GizmoSimulator.
-- 👀 I’m interested in coding.
+- 👀 I’m interested in emulation.
 - 🌱 I’m currently learning stuff.
-- 💞️ I’m looking to collaborate on things.
-- 📫 How to reach me (eh i don't recommend it)
+- 💞️ I don't remember what this line was for
+- 📫 How to reach me (github)
 
 <!---
 GizmoSimulator/GizmoSimulator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
