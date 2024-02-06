@@ -2,7 +2,7 @@
 - 👀 I’m interested in emulation.
 - 🌱 I’m currently learning stuff.
 - 💞️ I don't remember what this line was for
-- 📫 How to reach me (github)
+- 📫 How to reach me (email)
 
 <!---
 GizmoSimulator/GizmoSimulator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
